@@ -1,0 +1,17 @@
+{
+    "params":
+    {
+        "local_server":"True",
+        "local_uri":"mysql://root:@localhost/overdrive",
+        "prod_uri":"mysql://root:@localhost/overdrive",
+        "fb_url":"https://www.facebook.com/karan.gopalakrishnan/",
+        "tw_url":"https://twitter.com/Karan Gopalakrishnan",
+        "gh_url":"https://github.com/k4r4n29",
+        "blog_name":"Overdrive",
+        "tag_line":"Seamless Boundary",
+        "gmail-user":"v3c10r@gmail.com",
+        "gmail-password":"KaranGopal@29101999",
+        "about-text":"hello I am  Karan Gopalakrishan",
+        "no_of_posts": 3
+    }
+}
